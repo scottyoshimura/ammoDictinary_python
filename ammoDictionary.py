@@ -6,7 +6,7 @@ ammoDictionary ={".223":"a varmint round that can not go into a 5.56 caliber cha
                  ".22":"a commoon low power pistol and rifle round",
                  "9mm": "close in calibre a 357, but not as powerful",
                  ".45":"america's favorite pistol round",
-                 ".50 BMG":"a big ass round initially used in the Browning Machine Gun"}
+                 ".50 BMG":"a big round initially used in the Browning Machine Gun"}
 
 choice = None
 while choice != "0":
